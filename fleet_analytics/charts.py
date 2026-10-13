@@ -7,6 +7,7 @@ import io
 import matplotlib
 
 matplotlib.use("Agg")
+matplotlib.rcParams["svg.hashsalt"] = "fleet-analytics"  # IDs estables -> reportes reproducibles
 import matplotlib.pyplot as plt  # noqa: E402
 import matplotlib.ticker as mticker  # noqa: E402
 import pandas as pd  # noqa: E402
@@ -183,14 +184,14 @@ def fuel_bars(df: pd.DataFrame, value: str, title: str, xlabel: str, fmt: str = 
 
 def to_svg(fig) -> str:
     buf = io.StringIO()
-    fig.savefig(buf, format="svg", facecolor=fig.get_facecolor())
+    fig.savefig(buf, format="svg", facecolor=fig.get_facecolor(), metadata={"Date": None})
     plt.close(fig)
     svg = buf.getvalue()
     return svg[svg.find("<svg") :]
 
 
 def to_png(fig, path) -> None:
-    fig.savefig(path, format="png", dpi=150, facecolor=fig.get_facecolor())
+    fig.savefig(path, format="png", dpi=150, facecolor=fig.get_facecolor(), metadata={"Software": None})
     plt.close(fig)
 
 
