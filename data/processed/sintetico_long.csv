@@ -1,0 +1,121 @@
+source,year,month,month_name,country,ownership,vehicle_type,fleet_quantity,fuel,unit,km,volume,cost_usd,vehicles
+synthetic,2023,1,January,Canada,Independent Operators,route trucks,1100.0,diesel,L,2003728.0,550304.66,697428.79,1100.0
+synthetic,2023,1,January,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2608137.0,1244559.5,1550274.69,860.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",executives,40.0,gasoline,L,69955.0,8461.35,9209.84,40.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",others,30.0,lpg,L,40456.0,6525.93,4326.33,30.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",route trucks,485.0,cng,L,134880.0,43533.24,31007.01,60.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1013468.0,278590.76,335099.05,400.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,40096.0,45414.23,5534.48,25.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,35629.0,7510.52,883.98,20.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,308151.0,30856.21,34025.61,150.0
+synthetic,2023,1,January,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1020490.0,440365.49,552014.06,120.0
+synthetic,2023,2,February,Canada,Independent Operators,route trucks,1100.0,diesel,L,2062329.0,571366.39,720051.24,1100.0
+synthetic,2023,2,February,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2839396.0,1408268.46,1791554.39,860.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",executives,40.0,gasoline,L,71466.0,8613.74,9564.55,40.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",others,30.0,lpg,L,44564.0,7792.76,5203.26,30.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",route trucks,485.0,cng,L,137452.0,45078.78,31921.52,60.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,957776.0,243374.35,310589.27,400.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,44605.0,50723.53,6152.95,25.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,38820.0,8062.85,971.87,20.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,306258.0,31484.48,34839.98,150.0
+synthetic,2023,2,February,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1147823.0,485781.99,600044.92,120.0
+synthetic,2023,3,March,Canada,Independent Operators,route trucks,1100.0,diesel,L,2068458.0,509668.57,646453.19,1100.0
+synthetic,2023,3,March,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2753719.0,1206474.93,1534951.63,860.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",executives,40.0,gasoline,L,74252.0,8327.52,9374.21,40.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",others,30.0,lpg,L,43511.0,6767.66,4560.16,30.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",route trucks,485.0,cng,L,141489.0,42199.8,31227.16,60.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1070484.0,249552.39,319678.66,400.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,44570.0,42130.13,4941.03,25.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,41381.0,6986.38,841.02,20.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,314829.0,29543.09,33049.19,150.0
+synthetic,2023,3,March,Canada,"owned, leased or renting",tractor,120.0,diesel,L,989125.0,384293.53,486171.52,120.0
+synthetic,2023,4,April,Canada,Independent Operators,route trucks,1100.0,diesel,L,2296252.0,583328.96,758105.86,1100.0
+synthetic,2023,4,April,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2865207.0,1215038.69,1540549.04,860.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",executives,40.0,gasoline,L,78026.0,9143.37,10394.11,40.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",others,30.0,lpg,L,47356.0,7417.8,4941.44,30.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",route trucks,485.0,cng,L,139856.0,42402.58,31415.08,60.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1077289.0,270173.54,334239.13,400.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,44681.0,41085.36,5058.35,25.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,41173.0,7063.43,841.86,20.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,337087.0,31408.55,34736.48,150.0
+synthetic,2023,4,April,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1160568.0,447695.06,565534.83,120.0
+synthetic,2023,5,May,Canada,Independent Operators,route trucks,1100.0,diesel,L,2256802.0,571319.43,737460.4,1100.0
+synthetic,2023,5,May,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2921949.0,1258401.14,1624649.26,860.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",executives,40.0,gasoline,L,84675.0,8651.96,9931.9,40.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",others,30.0,lpg,L,45737.0,7517.27,5237.36,30.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",route trucks,485.0,cng,L,165242.0,50398.03,36941.74,60.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1187628.0,275857.37,357562.42,400.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,45888.0,42210.4,4925.78,25.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,40599.0,6703.52,817.91,20.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,364069.0,34905.96,38571.42,150.0
+synthetic,2023,5,May,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1095727.0,419178.85,541856.87,120.0
+synthetic,2023,6,June,Canada,Independent Operators,route trucks,1100.0,diesel,L,2224181.0,553181.08,753260.05,1100.0
+synthetic,2023,6,June,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2995936.0,1336283.16,1747098.67,860.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",executives,40.0,gasoline,L,77151.0,8582.83,9740.99,40.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",others,30.0,lpg,L,49684.0,7749.46,5291.65,30.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",route trucks,485.0,cng,L,156533.0,44720.66,33205.56,60.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1095889.0,261347.62,351765.05,400.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,45721.0,42803.48,5061.92,25.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,41250.0,6688.03,808.74,20.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,394329.0,38503.97,45022.13,150.0
+synthetic,2023,6,June,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1157148.0,459328.23,577126.75,120.0
+synthetic,2023,7,July,Canada,Independent Operators,route trucks,1100.0,diesel,L,2111277.0,528591.85,692833.85,1100.0
+synthetic,2023,7,July,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2763336.0,1261379.97,1645124.45,860.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",executives,40.0,gasoline,L,76969.0,8594.21,10049.56,40.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",others,30.0,lpg,L,51504.0,7902.21,5658.81,30.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",route trucks,485.0,cng,L,155387.0,47445.0,34956.16,60.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1173566.0,275872.0,373345.56,400.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,52090.0,45025.92,5383.71,25.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,40858.0,6680.71,795.36,20.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,346102.0,31577.67,35865.39,150.0
+synthetic,2023,7,July,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1230235.0,470073.43,612133.88,120.0
+synthetic,2023,8,August,Canada,Independent Operators,route trucks,1100.0,diesel,L,2204593.0,562180.66,724413.51,1100.0
+synthetic,2023,8,August,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2838802.0,1303226.72,1709780.37,860.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",executives,40.0,gasoline,L,71685.0,8034.32,9148.42,40.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",others,30.0,lpg,L,45418.0,6921.81,5061.36,30.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",route trucks,485.0,cng,L,153789.0,43487.38,33165.04,60.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1055416.0,253784.3,343266.9,400.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,45171.0,41342.64,4985.18,25.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,42075.0,6520.03,811.77,20.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,346230.0,34083.06,40051.79,150.0
+synthetic,2023,8,August,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1174637.0,470505.76,624272.85,120.0
+synthetic,2023,9,September,Canada,Independent Operators,route trucks,1100.0,diesel,L,2251869.0,546367.85,745150.91,1100.0
+synthetic,2023,9,September,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2800402.0,1242641.38,1663899.61,860.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",executives,40.0,gasoline,L,71518.0,8288.34,9770.77,40.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",others,30.0,lpg,L,44401.0,6783.62,4836.67,30.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",route trucks,485.0,cng,L,136103.0,37939.58,31011.18,60.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,963714.0,215678.64,281357.7,400.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,42364.0,38942.93,4705.07,25.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,41555.0,6836.61,814.22,20.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,358524.0,35186.83,41474.34,150.0
+synthetic,2023,9,September,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1032650.0,398299.23,514573.94,120.0
+synthetic,2023,10,October,Canada,Independent Operators,route trucks,1100.0,diesel,L,2086989.0,518998.86,716699.44,1100.0
+synthetic,2023,10,October,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2592792.0,1216461.33,1655444.52,860.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",executives,40.0,gasoline,L,68110.0,7591.37,9033.53,40.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",others,30.0,lpg,L,43530.0,6413.72,4429.5,30.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",route trucks,485.0,cng,L,132966.0,40457.74,32308.82,60.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,1102891.0,250757.18,341639.94,400.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,43768.0,39223.68,4542.61,25.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,37495.0,6200.06,744.79,20.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,331491.0,31145.94,36423.26,150.0
+synthetic,2023,10,October,Canada,"owned, leased or renting",tractor,120.0,diesel,L,999394.0,380767.16,513795.54,120.0
+synthetic,2023,11,November,Canada,Independent Operators,route trucks,1100.0,diesel,L,2233975.0,546512.53,733651.01,1100.0
+synthetic,2023,11,November,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2552761.0,1175905.71,1588473.35,860.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",executives,40.0,gasoline,L,70327.0,8100.5,9934.4,40.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",others,30.0,lpg,L,41483.0,6165.37,4599.6,30.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",route trucks,485.0,cng,L,131782.0,37304.53,29719.65,60.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,952047.0,227095.64,303457.88,400.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,45510.0,39961.18,4837.45,25.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,36677.0,6100.6,721.86,20.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,333918.0,31388.36,38529.09,150.0
+synthetic,2023,11,November,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1091990.0,440254.81,611330.13,120.0
+synthetic,2023,12,December,Canada,Independent Operators,route trucks,1100.0,diesel,L,2132129.0,575363.28,808822.39,1100.0
+synthetic,2023,12,December,Canada,Logistic Operators (3PL),tractor,860.0,diesel,L,2566063.0,1272605.03,1748475.46,860.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",executives,40.0,gasoline,L,61002.0,7054.98,8663.38,40.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",others,30.0,lpg,L,43152.0,7341.88,5536.34,30.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",route trucks,485.0,cng,L,128034.0,40552.12,32983.86,60.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",route trucks,485.0,diesel,L,908304.0,234837.31,315732.09,400.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",route trucks,485.0,electric,kWh,42660.0,53253.88,6429.37,25.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",supervision,170.0,electric,kWh,33004.0,7161.01,869.48,20.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",supervision,170.0,gasoline,L,304693.0,31154.93,39205.46,150.0
+synthetic,2023,12,December,Canada,"owned, leased or renting",tractor,120.0,diesel,L,1068678.0,438387.07,595652.94,120.0
