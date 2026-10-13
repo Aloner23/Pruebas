@@ -150,7 +150,15 @@ def build_report(raw: pd.DataFrame, source: str = "real", title: str | None = No
     figs.append(
         charts.segment_bars(summary, "co2e_g_per_km", "Intensidad de emisiones (g CO2e/km)", "g CO2e/km", "{:,.0f}")
     )
-    charts_html = "".join(f'<div class="card">{charts.to_svg(f)}</div>' for f in figs)
+    if is_synth:
+        # Cada gráfica lleva la etiqueta, por si se recorta o se comparte fuera del reporte.
+        for f in figs:
+            for ax in f.axes:
+                ax.set_title("DATOS SINTÉTICOS · " + ax.get_title(loc="left"), loc="left")
+    labels = [html.escape(f.axes[0].get_title(loc="left")) for f in figs]
+    charts_html = "".join(
+        f'<div class="card" role="img" aria-label="{lbl}">{charts.to_svg(f)}</div>' for f, lbl in zip(figs, labels)
+    )
 
     summary_view = summary.assign(
         segmento=[charts.segment_label(o, v) for o, v in zip(summary["ownership"], summary["vehicle_type"])],

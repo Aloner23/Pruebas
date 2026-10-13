@@ -19,6 +19,8 @@ def test_cli_report_synthetic_is_labeled(tmp_path):
     html = out.read_text(encoding="utf-8")
     assert "DATOS SINTÉTICOS" in html
     assert "No representan ninguna flotilla real" in html
+    # Cada gráfica lleva su propia etiqueta de datos sintéticos.
+    assert html.count("<svg") == html.count('aria-label="DATOS SINTÉTICOS · ')
 
 
 def test_cli_validate_exit_code():
