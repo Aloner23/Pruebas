@@ -1,0 +1,18 @@
+source,year,month,month_name,country,ownership,vehicle_type,fleet_quantity,fuel,unit,km,volume,cost_usd,vehicles
+real,2023,1,January,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,1,January,Canada,Logistic Operators (3PL),tractor,,diesel,L,2617467.0,1177860.15,1721771.43,849.0
+real,2023,2,February,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,2,February,Canada,Logistic Operators (3PL),tractor,,diesel,L,2443422.0,1099539.9,1447795.66,849.0
+real,2023,3,March,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,3,March,Canada,Logistic Operators (3PL),tractor,,diesel,L,2851380.0,1283121.0,1588661.73,868.0
+real,2023,4,April,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,4,April,Canada,Logistic Operators (3PL),tractor,,diesel,L,2796696.0,1258513.2,1525894.76,868.0
+real,2023,5,May,Canada,Independent Operators,route trucks,1100.0,diesel,L,2535000.0,633750.0,836233.0,1100.0
+real,2023,5,May,Canada,Logistic Operators (3PL),tractor,,diesel,L,3248640.0,1461888.0,1668412.12,864.0
+real,2023,6,June,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,7,July,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,8,August,Canada,Independent Operators,route trucks,1100.0,diesel,L,2535000.0,633750.0,836233.0,1100.0
+real,2023,9,September,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,10,October,Canada,Independent Operators,route trucks,1100.0,diesel,L,2535000.0,633750.0,836233.0,1100.0
+real,2023,11,November,Canada,Independent Operators,route trucks,1100.0,diesel,L,2028000.0,507000.0,668987.0,1100.0
+real,2023,12,December,Canada,Independent Operators,route trucks,1100.0,diesel,L,2535000.0,633750.0,836233.0,1100.0
