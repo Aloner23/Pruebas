@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Instalar dependencias
+        run: pip install -r requirements-dev.txt
+      - name: Ruff (lint + formato)
+        run: |
+          ruff check .
+          ruff format --check .
+      - name: Pytest
+        run: pytest -q
+      - name: Reportes de humo (real y sintético)
+        run: |
+          python -m fleet_analytics report data/raw/canada_2023_flotilla.csv --out /tmp/real.html --processed-dir ""
+          python -m fleet_analytics report --synthetic --out /tmp/synth.html --processed-dir ""
