@@ -1,0 +1,15 @@
+severity,rule,segment,month,message
+info,R6_constant_ratio,Independent Operators | route trucks | diesel,todos,"Rendimiento idéntico en 12 meses (4.0000 km/L): probablemente derivado con un factor fijo, no medido"
+info,R6_constant_ratio,Independent Operators | route trucks | diesel,todos,"Costo unitario idéntico en 12 meses (1.3195 USD/L): probablemente derivado con un factor fijo, no medido"
+info,R6_constant_ratio,Logistic Operators (3PL) | tractor | diesel,todos,"Rendimiento idéntico en 5 meses (2.2222 km/L): probablemente derivado con un factor fijo, no medido"
+info,R7_fleet_quantity,Logistic Operators (3PL) | tractor | diesel,January,Quantity general vacío; el combustible reporta 849 vehículos
+info,R7_fleet_quantity,Logistic Operators (3PL) | tractor | diesel,February,Quantity general vacío; el combustible reporta 849 vehículos
+info,R7_fleet_quantity,Logistic Operators (3PL) | tractor | diesel,March,Quantity general vacío; el combustible reporta 868 vehículos
+info,R7_fleet_quantity,Logistic Operators (3PL) | tractor | diesel,April,Quantity general vacío; el combustible reporta 868 vehículos
+info,R7_fleet_quantity,Logistic Operators (3PL) | tractor | diesel,May,Quantity general vacío; el combustible reporta 864 vehículos
+info,R9_coverage,"owned, leased or renting | tractor",todos,Segmento sin ningún dato en el año
+info,R9_coverage,"owned, leased or renting | route trucks",todos,Segmento sin ningún dato en el año
+info,R9_coverage,"owned, leased or renting | supervision",todos,Segmento sin ningún dato en el año
+info,R9_coverage,"owned, leased or renting | executives",todos,Segmento sin ningún dato en el año
+info,R9_coverage,"owned, leased or renting | others",todos,Segmento sin ningún dato en el año
+info,R9_coverage,Logistic Operators (3PL) | tractor,"June, July, August, September, October, November, December",Sin datos en 7 de 12 meses
