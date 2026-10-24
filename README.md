@@ -1,5 +1,9 @@
 # Fleet Energy Analytics
 
+[Notebook ejecutado](notebooks/analisis_exploratorio.ipynb) · [Inspección de datos](docs/inspeccion_datos.md) · [Reporte real en HTML](reports/reporte_canada_2023_flotilla.html) · [Reporte sintético en HTML](reports/reporte_sintetico.html) · [Ejecución](#cómo-correrlo)
+
+**Para evaluarlo:** revisa el notebook directamente en GitHub o descarga un reporte HTML y ábrelo en el navegador. El reporte real muestra los límites del archivo de entrada; el sintético ilustra el pipeline completo y está etiquetado como tal.
+
 ![CI](https://github.com/Aloner23/Pruebas/actions/workflows/ci.yml/badge.svg)
 
 Pipeline reproducible en Python para **limpiar, validar y analizar** el reporte mensual de consumo
